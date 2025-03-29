@@ -1,0 +1,79 @@
+2025-02-19 21:27:55,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-19 21:27:55,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-19 21:27:55,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-19 21:27:55,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-19 21:58:18,656:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-19 21:58:18,656:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-19 21:58:18,656:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-19 21:58:18,656:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-19 22:01:32,780:INFO:PyCaret ClassificationExperiment
+2025-02-19 22:01:32,780:INFO:Logging name: clf-default-name
+2025-02-19 22:01:32,780:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2025-02-19 22:01:32,780:INFO:version 3.3.2
+2025-02-19 22:01:32,780:INFO:Initializing setup()
+2025-02-19 22:01:32,780:INFO:self.USI: 25b4
+2025-02-19 22:01:32,780:INFO:self._variable_keys: {'exp_name_log', 'fold_shuffle_param', 'n_jobs_param', 'pipeline', 'html_param', 'fold_generator', 'fix_imbalance', 'exp_id', 'gpu_n_jobs_param', 'gpu_param', 'logging_param', 'X_train', 'y_train', 'data', 'fold_groups_param', '_ml_usecase', 'X_test', 'seed', 'target_param', 'log_plots_param', 'y_test', 'USI', 'memory', 'y', 'idx', 'is_multiclass', '_available_plots', 'X'}
+2025-02-19 22:01:32,780:INFO:Checking environment
+2025-02-19 22:01:32,780:INFO:python_version: 3.9.6
+2025-02-19 22:01:32,780:INFO:python_build: ('default', 'Feb  3 2024 15:58:27')
+2025-02-19 22:01:32,780:INFO:machine: arm64
+2025-02-19 22:01:32,780:INFO:platform: macOS-14.4-arm64-arm-64bit
+2025-02-19 22:01:32,781:INFO:Memory: svmem(total=8589934592, available=1447313408, percent=83.2, used=3314450432, free=31342592, active=1433911296, inactive=1409138688, wired=1880539136)
+2025-02-19 22:01:32,781:INFO:Physical Core: 8
+2025-02-19 22:01:32,781:INFO:Logical Core: 8
+2025-02-19 22:01:32,781:INFO:Checking libraries
+2025-02-19 22:01:32,781:INFO:System:
+2025-02-19 22:01:32,781:INFO:    python: 3.9.6 (default, Feb  3 2024, 15:58:27)  [Clang 15.0.0 (clang-1500.3.9.4)]
+2025-02-19 22:01:32,781:INFO:executable: /Users/cboyfly/Documents/repos/Public-Health-Tracker-Advisory-Chatbot/.venv/bin/python
+2025-02-19 22:01:32,781:INFO:   machine: macOS-14.4-arm64-arm-64bit
+2025-02-19 22:01:32,781:INFO:PyCaret required dependencies:
+2025-02-19 22:02:28,981:INFO:PyCaret ClassificationExperiment
+2025-02-19 22:02:28,982:INFO:Logging name: clf-default-name
+2025-02-19 22:02:28,982:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2025-02-19 22:02:28,982:INFO:version 3.3.2
+2025-02-19 22:02:28,982:INFO:Initializing setup()
+2025-02-19 22:02:28,982:INFO:self.USI: dd82
+2025-02-19 22:02:28,982:INFO:self._variable_keys: {'exp_name_log', 'fold_shuffle_param', 'n_jobs_param', 'pipeline', 'html_param', 'fold_generator', 'fix_imbalance', 'exp_id', 'gpu_n_jobs_param', 'gpu_param', 'logging_param', 'X_train', 'y_train', 'data', 'fold_groups_param', '_ml_usecase', 'X_test', 'seed', 'target_param', 'log_plots_param', 'y_test', 'USI', 'memory', 'y', 'idx', 'is_multiclass', '_available_plots', 'X'}
+2025-02-19 22:02:28,982:INFO:Checking environment
+2025-02-19 22:02:28,982:INFO:python_version: 3.9.6
+2025-02-19 22:02:28,982:INFO:python_build: ('default', 'Feb  3 2024 15:58:27')
+2025-02-19 22:02:28,982:INFO:machine: arm64
+2025-02-19 22:02:28,982:INFO:platform: macOS-14.4-arm64-arm-64bit
+2025-02-19 22:02:28,983:INFO:Memory: svmem(total=8589934592, available=1506377728, percent=82.5, used=3256385536, free=48758784, active=1471692800, inactive=1439760384, wired=1784692736)
+2025-02-19 22:02:28,983:INFO:Physical Core: 8
+2025-02-19 22:02:28,983:INFO:Logical Core: 8
+2025-02-19 22:02:28,983:INFO:Checking libraries
+2025-02-19 22:02:28,983:INFO:System:
+2025-02-19 22:02:28,983:INFO:    python: 3.9.6 (default, Feb  3 2024, 15:58:27)  [Clang 15.0.0 (clang-1500.3.9.4)]
+2025-02-19 22:02:28,983:INFO:executable: /Users/cboyfly/Documents/repos/Public-Health-Tracker-Advisory-Chatbot/.venv/bin/python
+2025-02-19 22:02:28,983:INFO:   machine: macOS-14.4-arm64-arm-64bit
+2025-02-19 22:02:28,983:INFO:PyCaret required dependencies:
+2025-02-19 22:04:10,895:INFO:PyCaret ClassificationExperiment
+2025-02-19 22:04:10,896:INFO:Logging name: clf-default-name
+2025-02-19 22:04:10,896:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2025-02-19 22:04:10,896:INFO:version 3.3.2
+2025-02-19 22:04:10,896:INFO:Initializing setup()
+2025-02-19 22:04:10,896:INFO:self.USI: 3c68
+2025-02-19 22:04:10,896:INFO:self._variable_keys: {'exp_name_log', 'fold_shuffle_param', 'n_jobs_param', 'pipeline', 'html_param', 'fold_generator', 'fix_imbalance', 'exp_id', 'gpu_n_jobs_param', 'gpu_param', 'logging_param', 'X_train', 'y_train', 'data', 'fold_groups_param', '_ml_usecase', 'X_test', 'seed', 'target_param', 'log_plots_param', 'y_test', 'USI', 'memory', 'y', 'idx', 'is_multiclass', '_available_plots', 'X'}
+2025-02-19 22:04:10,896:INFO:Checking environment
+2025-02-19 22:04:10,896:INFO:python_version: 3.9.6
+2025-02-19 22:04:10,896:INFO:python_build: ('default', 'Feb  3 2024 15:58:27')
+2025-02-19 22:04:10,896:INFO:machine: arm64
+2025-02-19 22:04:10,896:INFO:platform: macOS-14.4-arm64-arm-64bit
+2025-02-19 22:04:10,896:INFO:Memory: svmem(total=8589934592, available=1473314816, percent=82.8, used=3242360832, free=86392832, active=1403502592, inactive=1386496000, wired=1838858240)
+2025-02-19 22:04:10,896:INFO:Physical Core: 8
+2025-02-19 22:04:10,896:INFO:Logical Core: 8
+2025-02-19 22:04:10,896:INFO:Checking libraries
+2025-02-19 22:04:10,896:INFO:System:
+2025-02-19 22:04:10,896:INFO:    python: 3.9.6 (default, Feb  3 2024, 15:58:27)  [Clang 15.0.0 (clang-1500.3.9.4)]
+2025-02-19 22:04:10,896:INFO:executable: /Users/cboyfly/Documents/repos/Public-Health-Tracker-Advisory-Chatbot/.venv/bin/python
+2025-02-19 22:04:10,897:INFO:   machine: macOS-14.4-arm64-arm-64bit
+2025-02-19 22:04:10,897:INFO:PyCaret required dependencies:
